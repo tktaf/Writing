@@ -28,8 +28,8 @@ echo "✓ Created project directory: $PROJECT_DIR"
 
 # List of system files to copy
 SYSTEM_FILES=(
-    "Editor.md"
-    "Writer.md"
+    "Manager.md"
+    "Worker.md"
     "Scoring.md"
     "Organization.md"
     "Concept.txt"
@@ -69,9 +69,7 @@ echo "✓ Created organizational folder structure"
 # Move system files to appropriate folders
 echo "Organizing system files..."
 
-# Move system files to 00-SYSTEM
-mv "$PROJECT_DIR/Editor.md" "$PROJECT_DIR/00-SYSTEM/"
-mv "$PROJECT_DIR/Writer.md" "$PROJECT_DIR/00-SYSTEM/"
+# Keep Manager.md and Worker.md at project root, move others to 00-SYSTEM
 mv "$PROJECT_DIR/Scoring.md" "$PROJECT_DIR/00-SYSTEM/"
 mv "$PROJECT_DIR/Organization.md" "$PROJECT_DIR/00-SYSTEM/"
 mv "$PROJECT_DIR/ImplementationChecklistInstructions.md" "$PROJECT_DIR/00-SYSTEM/"
@@ -148,8 +146,8 @@ This project follows the systematic creative writing workflow defined in the sys
 
 ### Key Files
 
-- **00-SYSTEM/Editor.md**: Editorial role and responsibilities
-- **00-SYSTEM/Writer.md**: Writer role and responsibilities  
+- **Manager.md**: Editorial role and responsibilities (at project root)
+- **Worker.md**: Writer role and responsibilities (at project root)
 - **00-SYSTEM/Scoring.md**: Quality evaluation system (95+ required)
 - **00-SYSTEM/Organization.md**: Project organization guidelines
 - **00-SYSTEM/ImplementationChecklistInstructions.md**: Template for creating scene-specific task lists
@@ -222,14 +220,14 @@ cat > "$PROJECT_DIR/QUICK-START.md" << EOF
 - [ ] Develop chapter outlines in \`02-PLANNING/Chapter-Outlines/\`
 - [ ] Plan research needs in \`02-PLANNING/Research-Strategy/\`
 
-### 3. Begin Writing (Writer Role)
-- [ ] Review \`00-SYSTEM/Writer.md\` for responsibilities
+### 3. Begin Writing (Worker Role)
+- [ ] Review \`Worker.md\` for responsibilities
 - [ ] Use \`00-SYSTEM/ImplementationChecklistInstructions.md\` as guide
 - [ ] Start with Chapter 1, Scene 1 following systematic checklist
 
 ### 4. Quality Control (Both Roles)
 - [ ] Use \`00-SYSTEM/Scoring.md\` for all evaluations
-- [ ] Both Editor and Writer must score 95+ before proceeding
+- [ ] Both Manager and Worker must score 95+ before proceeding
 - [ ] Document all work in appropriate folders
 
 ## Important Reminders

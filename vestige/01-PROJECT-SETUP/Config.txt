@@ -1,0 +1,216 @@
+CONFIG.TXT - CREATIVE WRITING REQUIREMENTS & SPECIFICATIONS
+
+================================================================================
+STORY CONFIGURATION
+================================================================================
+
+STORY METADATA
+-----------------
+Story Code: VESTIGE-001
+Story Type: Novel (Science Fiction)
+Genre: Hard Science Fiction, Post-Apocalyptic, Psychological Thriller
+Target Length: Epic Novel - 150,000-180,000 words
+
+STORY SPECIFICATIONS
+---------------------
+Final Format: Digital manuscript (standard publishing format)
+Target Word Count: 165,000 words (acceptable range: 150,000-180,000)
+Chapter Count: 30-37 chapters (approximately 4,500-5,500 words each)
+Delivery Format: Complete manuscript with chapter breaks, formatted for editorial review and potential publication
+
+WRITING PROGRESSION & GOALS
+---------------------------
+Story Development Phases: Sequential chapter development with research integration, character arc progression, and technical accuracy verification
+Completion Goals: A scientifically grounded psychological thriller that balances technical plausibility with emotional depth
+
+Chapter/Section Milestones:
+- Chapters 1-8: Establish Harvey's guilt, disaster's scope, facility dynamics, and survival situation (35,000 words)
+- Chapters 9-20: Collaborative problem-solving, technical challenges, character development, secondary storylines (55,000 words)
+- Chapters 21-30: Escalating solution attempts, climactic implementation, resolution, redemption or failure (45,000 words)
+- Chapters 31-37: Extended resolution, consequences exploration, character conclusion (25,000 words)
+- Final Version: Polished epic manuscript meeting all scientific and narrative standards
+
+STORY REQUIREMENTS
+------------------
+Required Story Elements:
+1. Scientific Disaster: Comprehensive explanation of sun's destruction and Earth's ejection from solar system (10,000 words minimum development) - Establishes credible premise with full technical depth
+2. Harvey's Psychological Journey: Complete character arc from guilt through determination to resolution (continuous throughout, 15,000 words focused development) - Central narrative drive
+3. Artificial Sun Creation: Technically plausible solution development with realistic challenges (25,000 words minimum) - Core plot progression with extensive technical detail
+4. Survival Dynamics: Underground facility operations and human interactions under extreme stress (20,000 words minimum) - Environmental context and social tension
+5. Secondary Character Development: Rich development of military, scientific, and support personnel (15,000 words minimum) - Supporting narrative depth
+6. Surface Condition Evolution: Detailed portrayal of Earth's transformation during the crisis (10,000 words minimum) - World-building and atmospheric tension
+
+Essential Story Components:
+- First-person confessional narrative maintaining psychological authenticity
+- Scientific accuracy in all technical explanations and solutions
+- Realistic military and scientific facility operations and hierarchy
+- Gradual revelation of Harvey's backstory and the disaster's origins
+
+Research/World-building Requirements:
+- Research Depth: University-level understanding of stellar physics, energy generation, and space dynamics
+- Authenticity Standards: All scientific concepts must be grounded in current physics understanding with plausible extrapolations
+- Source Material: Astrophysics textbooks, energy research papers, survival technology resources, psychological trauma studies
+- Fact-checking: Expert consultation recommended for complex physics concepts and survival scenarios
+
+WRITING STYLE SPECIFICATIONS
+----------------------------
+Narrative Style: First-person present tense with strategic flashbacks to past events
+Language: Contemporary adult fiction with appropriate scientific terminology
+Tone Requirements: Dark, introspective, scientifically rigorous yet emotionally accessible
+Complexity Level: Adult literary fiction with hard science fiction elements
+
+Manuscript Formatting Requirements:
+- Chapter Structure: Traditional numbered chapters with clear scene breaks
+- Font/Typography: Standard manuscript format (12pt Times New Roman, double-spaced)
+- Spacing: Double-spaced throughout with 1-inch margins
+- Page Layout: Standard manuscript format with page numbers and headers
+- Special Elements: Italics for internal monologue emphasis, proper formatting for technical explanations
+
+CREATIVE QUALITY STANDARDS
+---------------------------
+Story Authenticity Requirements:
+- Research verification: All scientific concepts must be fact-checked against current physics understanding
+- Character consistency: Harvey's voice and psychological state must remain authentic throughout his journey
+- World-building coherence: Underground facility operations and survival scenarios must follow internal logic
+
+Narrative Quality Metrics:
+- Prose Quality: Professional-level writing craft appropriate for adult science fiction market
+- Story Completeness: All plot threads resolved, character arc satisfyingly concluded
+- Consistency: Uniform narrative voice, scientific accuracy, and character development
+- Originality: Fresh approach to post-apocalyptic and redemption themes through scientific lens
+
+CREATIVE GUIDELINES & CONSTRAINTS
+---------------------------------
+Publishing Considerations:
+- Copyright awareness: All scientific concepts and explanations must be original or properly sourced
+- Sensitivity considerations: Respectful treatment of themes related to global catastrophe and survival
+- Genre expectations: Must meet hard science fiction standards for scientific plausibility
+
+Content Guidelines:
+- Content boundaries: Focus on scientific and psychological elements; avoid excessive violence or romance subplots
+- Sensitivity handling: Thoughtful approach to themes of guilt, responsibility, and mass casualty events
+- Authenticity requirements: Accurate representation of scientific research culture and military operations
+
+Creative Voice Guidelines:
+- Narrative voice consistency: Harvey's guilt-driven, scientifically minded perspective throughout
+- Character voice authenticity: Realistic dialogue for military personnel and scientists under stress
+- Thematic coherence: Consistent exploration of responsibility, redemption, and human resilience
+
+CREATIVE RESOURCES
+------------------
+Research Resources:
+- Reference materials: Astrophysics textbooks, energy physics papers, survival technology guides
+- Research tools: Access to scientific databases, physics consultation resources
+- Authenticity resources: Potential consultation with physicists and survival experts
+
+Writing Tools:
+- Writing software: Standard word processing with chapter organization capabilities
+- Collaboration approach: Editor-Writer partnership with regular technical accuracy reviews
+- Draft management: Version control system for tracking revisions and technical updates
+
+Creative Team:
+- Writer focus: Chapter development, character voice, scientific research integration
+- Editor oversight: Technical accuracy verification, narrative pacing, character development guidance
+- Feedback frequency: Review after every 3-4 chapters for pacing and accuracy assessment
+
+STORY COMPLETION CRITERIA
+-------------------------
+Story Acceptance Requirements:
+ALL of the following must be met for story completion:
+
+Narrative Completeness:
+- [ ] All required story elements present and developed to specified word counts
+- [ ] Target word count achieved (150,000-180,000 words)
+- [ ] Harvey's complete psychological journey from guilt to resolution
+- [ ] Scientific explanation and solution attempt fully developed
+
+Creative Quality Standards:
+- [ ] Passes editorial review process using Scoring.md (95+ score required)
+- [ ] Scientific accuracy verified by physics consultation if needed
+- [ ] Narrative voice consistent and authentic throughout
+- [ ] Genre expectations for hard science fiction met
+
+Manuscript Standards:
+- [ ] Professional manuscript formatting throughout
+- [ ] Chapter structure and pacing appropriate for adult novel
+- [ ] Technical explanations accessible to general adult readers
+- [ ] Final presentation ready for publication consideration
+
+Creative Approval Process:
+- [ ] Writer self-assessment completed (95+ score using Scoring.md)
+- [ ] Editor approval obtained (95+ score using Scoring.md)
+- [ ] Technical accuracy review completed
+- [ ] Final narrative and character development review passed
+
+REVISION PROTOCOLS
+------------------
+Revision Approach:
+- Revision philosophy: Enhance scientific accuracy and emotional authenticity without compromising narrative flow
+- Revision scope: Technical explanations, character development depth, pacing optimization
+- Creative integrity: Maintain Harvey's voice and the story's scientific foundation through all revisions
+
+Feedback Processing:
+- Feedback integration: Systematic incorporation of editorial suggestions for scientific and narrative improvements
+- Creative collaboration: Regular Editor-Writer conferences on technical accuracy and character development
+- Change documentation: Detailed tracking of scientific updates and character development modifications
+
+CREATIVE CHALLENGES
+-------------------
+Potential Story Challenges:
+- Technical Exposition: High likelihood - Balancing scientific accuracy with narrative accessibility - Solution: Integrate explanations through character dialogue and discovery
+- Emotional Sustainability: Medium likelihood - Maintaining reader engagement with guilt-heavy protagonist - Solution: Gradual character growth and collaborative dynamics
+- Scientific Plausibility: High likelihood - Ensuring artificial sun creation remains believable - Solution: Extensive research and expert consultation
+
+Creative Contingency Plans:
+- Story development obstacles: Technical research support and physics consultation available
+- Quality concerns: Additional revision cycles focused on scientific accuracy and character development
+- Creative differences: Physics expert mediation for technical disputes, story consultant for narrative issues
+
+CREATIVE SUCCESS METRICS
+------------------------
+Quantitative Measures:
+- Story completion: All 30-37 chapters developed with required technical and character elements
+- Quality score: 95+ rating using Scoring.md evaluation criteria
+- Research integration: Successful incorporation of verified scientific concepts throughout
+- Goal achievement: 100% of narrative and technical requirements fulfilled
+
+Qualitative Measures:
+- Reader impact: Story generates emotional investment in Harvey's redemption journey
+- Technical effectiveness: Science fiction readers accept the premise and solutions as plausible
+- Character authenticity: Harvey's psychological journey feels genuine and earned
+
+POST-COMPLETION REQUIREMENTS
+----------------------------
+Story Delivery Package:
+- Final manuscript formatted for publication consideration
+- Technical appendix with scientific concepts and sources used
+- Character development notes documenting Harvey's psychological journey
+- Research documentation including physics sources and expert consultations
+
+Archive Requirements:
+- Version organization: Chronological chapter development with technical revision tracking
+- Creative documentation: Character psychology notes, scientific concept development, plot decision rationale
+- Story evolution record: Documentation of how scientific research influenced narrative development
+- Creative insights: Analysis of successful integration of hard science with psychological narrative
+
+================================================================================
+CREATIVE APPROVAL & SIGN-OFF
+================================================================================
+
+Story Vision Approved By: Story Development Specialist, Project Lead, May 25, 2025
+Creative Requirements Approved By: Story Development Specialist, Project Lead, May 25, 2025
+Quality Standards Approved By: Story Development Specialist, Project Lead, May 25, 2025
+
+Special Creative Instructions:
+This story requires careful balance between scientific accuracy and emotional accessibility. Harvey's guilt must feel authentic without becoming overwhelming to readers. Technical explanations should enhance rather than impede narrative flow. The artificial sun solution should be ambitious yet grounded in plausible physics. Consider consultation with physics experts for technical accuracy validation.
+
+Creative Team Information:
+- Editor: Provides technical accuracy oversight, character development guidance, and narrative pacing optimization
+- Writer: Develops Harvey's voice, integrates scientific research, creates emotionally authentic character journey
+- Technical Consultant: Physics expert for scientific accuracy verification (as needed)
+
+================================================================================
+STORY CONFIGURATION VERSION: 1.0
+LAST UPDATED: May 25, 2025
+UPDATED BY: Story Development Specialist
+================================================================================
