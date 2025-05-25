@@ -1,0 +1,213 @@
+CONFIG.TXT - CREATIVE WRITING REQUIREMENTS & SPECIFICATIONS
+
+================================================================================
+STORY CONFIGURATION
+================================================================================
+
+STORY METADATA
+-----------------
+Story Code: VEST-001
+Story Type: Science Fiction Novel
+Genre: Hard Science Fiction / Post-Apocalyptic / Literary Fiction
+Target Length: 80,000-100,000 words (Novel)
+
+STORY SPECIFICATIONS
+---------------------
+Final Format: Digital manuscript and print-ready format
+Target Word Count: 85,000-95,000 words
+Chapter Count: 15-20 chapters (approximately 4,500-6,000 words each)
+Delivery Format: Complete novel manuscript with chapter breaks and proper formatting
+
+WRITING PROGRESSION & GOALS
+---------------------------
+Story Development Phases: Character-driven scene development following multiple POV structure through catastrophic event to convergence
+Completion Goals: Complete story arc showing Harvey's redemption, multiple survival group journeys, and convergence toward sustainable survival community
+
+Chapter/Section Milestones:
+- Opening Phase (Chapters 1-5): Establish disaster, introduce all major characters and survival groups
+- Crisis Development (Chapters 6-10): Show each group's survival challenges and character development
+- Convergence Phase (Chapters 11-15): Bring storylines together, establish permanent survival community
+- Final Version: Polished novel balancing scientific realism with human drama and hope
+
+STORY REQUIREMENTS
+------------------
+Required Story Elements:
+1. Harvey's Redemption Arc: 15,000-20,000 words - Transform from isolated destroyer to community protector
+2. Multiple Survival Groups: 20,000-25,000 words - Show different approaches to catastrophe survival
+3. Scientific Grounding: Throughout story - Accurate physics of solar loss and atmospheric consequences
+4. Relationship Development: 15,000-20,000 words - Harvey/Mary and Logan/Sadie relationships as sources of strength
+
+Essential Story Components:
+- Multi-POV structure rotating between survivor groups with clear chapter divisions
+- Scientific authenticity in disaster physics and survival technology
+- Character development under extreme pressure showing both human weakness and strength
+- Convergence narrative bringing separated storylines together for community building
+
+Research/World-building Requirements:
+- Research Depth: Comprehensive understanding of atmospheric physics, survival technology, psychology of extreme isolation
+- Authenticity Standards: All scientific elements must be physically plausible and technically accurate
+- Source Material: Scientific journals on atmospheric physics, survival manuals, space technology documentation
+- Fact-checking: All technical details verified for scientific accuracy and plausibility
+
+WRITING STYLE SPECIFICATIONS
+----------------------------
+Narrative Style: Third person limited, rotating POV between characters with clear chapter transitions
+Language: Contemporary literary with scientific precision where needed
+Tone Requirements: Bleak but not hopeless, scientific but deeply human, urgent but contemplative
+Complexity Level: Adult literary fiction with science fiction elements
+
+Manuscript Formatting Requirements:
+- Chapter Structure: Clear chapter breaks with character name/location headers
+- Font/Typography: Standard manuscript format (Times New Roman 12pt, double-spaced)
+- Spacing: Double-spaced throughout with proper margins
+- Page Layout: Standard 1-inch margins, page numbers, running headers
+- Special Elements: Scene breaks marked with # symbol, dialogue in standard format
+
+CREATIVE QUALITY STANDARDS
+---------------------------
+Story Authenticity Requirements:
+- Research verification: All scientific and technical elements fact-checked for accuracy
+- Character consistency: Characters must behave authentically under extreme pressure
+- World-building coherence: Consistent physics and consequences throughout disaster scenario
+
+Narrative Quality Metrics:
+- Prose Quality: Literary fiction standards with clear, engaging prose appropriate for subject matter
+- Story Completeness: All character arcs resolved, all plotlines concluded satisfactorily
+- Consistency: Unified narrative voice and tone throughout, consistent character development
+- Originality: Fresh approach to apocalyptic fiction through focus on responsibility and redemption
+
+CREATIVE GUIDELINES & CONSTRAINTS
+---------------------------------
+Publishing Considerations:
+- Copyright awareness: All scientific concepts and technical details properly researched and original
+- Sensitivity considerations: Respectful treatment of global catastrophe and human suffering
+- Genre expectations: Balance hard science fiction realism with accessible human drama
+
+Content Guidelines:
+- Content boundaries: Adult themes handled maturely, violence/death depicted realistically but not gratuitously
+- Sensitivity handling: Human dignity maintained even in extreme circumstances
+- Authenticity requirements: Scientific accuracy balanced with narrative necessity
+
+Creative Voice Guidelines:
+- Narrative voice consistency: Maintain intimate but objective third person throughout
+- Character voice authenticity: Each character must have distinct voice reflecting background and personality
+- Thematic coherence: Themes of responsibility, redemption, and human connection woven throughout
+
+CREATIVE RESOURCES
+------------------
+Research Resources:
+- Reference materials: Scientific journals on atmospheric physics, NASA technical documents, survival handbooks
+- Research tools: Access to scientific databases, expert consultation on physics and survival technology
+- Authenticity resources: Technical experts for fact-checking scientific elements
+
+Writing Tools:
+- Writing software: Standard word processing with version control and backup systems
+- Collaboration approach: Regular progress reviews and feedback integration
+- Draft management: Chapter-by-chapter development with incremental improvements
+
+Creative Team:
+- Writer focus: Character development, scene creation, dialogue crafting, maintaining narrative flow
+- Editor oversight: Story structure, pacing, scientific accuracy, thematic coherence
+- Feedback frequency: Regular chapter-level reviews with comprehensive manuscript review
+
+STORY COMPLETION CRITERIA
+-------------------------
+Story Acceptance Requirements:
+ALL of the following must be met for story completion:
+
+Narrative Completeness:
+- [ ] All required story elements present and fully developed
+- [ ] Target word count achieved (85,000-95,000 words)
+- [ ] All character arcs and plot threads satisfactorily resolved
+- [ ] Research and scientific accuracy requirements met
+
+Creative Quality Standards:
+- [ ] Passes editorial review process using Scoring.md (95+ score required)
+- [ ] Meets narrative authenticity and scientific consistency standards
+- [ ] Complies with established voice and style guidelines throughout
+- [ ] Achieves genre expectations and literary quality targets
+
+Manuscript Standards:
+- [ ] Correct formatting throughout entire manuscript
+- [ ] Consistent narrative voice and style in all chapters
+- [ ] Proper manuscript format specifications met
+- [ ] Final presentation requirements followed
+
+Creative Approval Process:
+- [ ] Writer self-assessment completed (95+ score required)
+- [ ] Editor approval obtained (95+ score required)
+- [ ] All editorial feedback incorporated satisfactorily
+- [ ] Final comprehensive story review passed
+
+REVISION PROTOCOLS
+------------------
+Revision Approach:
+- Revision philosophy: Revisions should strengthen character development, improve scientific accuracy, enhance thematic coherence
+- Revision scope: Character motivation, dialogue, scene pacing, scientific details can be modified; core plot structure preserved
+- Creative integrity: Maintain central themes of responsibility, redemption, and human connection
+
+Feedback Processing:
+- Feedback integration: Systematic incorporation of editor suggestions with writer creative judgment
+- Creative collaboration: Regular editor-writer conferences on character development and story progression
+- Change documentation: Track major revisions and creative decisions for consistency
+
+CREATIVE CHALLENGES
+-------------------
+Potential Story Challenges:
+- Balancing Hope and Realism: HIGH - Risk of too dark or unrealistically optimistic - Focus on human connections and small victories
+- Scientific Exposition: MEDIUM - Risk of overwhelming human drama - Integrate science through character problem-solving
+- Multiple POV Coordination: MEDIUM - Risk of uneven character development - Maintain equal focus on all storylines
+
+Creative Contingency Plans:
+- Story development obstacles: Focus on character relationships when plot becomes overwhelming
+- Quality concerns: Regular scientific fact-checking and sensitivity readers for human elements
+- Creative differences: Prioritize story's central themes of redemption and human connection
+
+CREATIVE SUCCESS METRICS
+------------------------
+Quantitative Measures:
+- Story completion: All narrative requirements fulfilled within target word count
+- Quality score: 95+ rating using Scoring.md evaluation system
+- Revision efficiency: Story improvement through focused revision process
+- Goal achievement: 100% of story requirements met on schedule
+
+Qualitative Measures:
+- Reader impact: Story successfully balances scientific catastrophe with human hope
+- Narrative effectiveness: Multiple POV structure creates comprehensive survival narrative
+- Creative excellence: Novel achieves literary quality within science fiction genre
+
+POST-COMPLETION REQUIREMENTS
+----------------------------
+Story Delivery Package:
+- Final manuscript in both digital and print-ready formats
+- Character profiles and relationship documentation
+- Scientific research sources and accuracy verification
+- Story development notes and creative decision documentation
+
+Archive Requirements:
+- Version organization: All drafts organized chronologically with revision notes
+- Creative documentation: Character development notes, scientific research, plot decisions
+- Story evolution record: Documentation of how story developed through revision process
+- Creative insights: Lessons learned about balancing science fiction with literary elements
+
+================================================================================
+CREATIVE APPROVAL & SIGN-OFF
+================================================================================
+
+Story Vision Approved By: Story Development Specialist, November 25, 2024
+Creative Requirements Approved By: Story Development Specialist, November 25, 2024
+Quality Standards Approved By: Story Development Specialist, November 25, 2024
+
+Special Creative Instructions:
+This story must maintain scientific credibility while never losing sight of human emotion and moral complexity. The disaster serves the character development, not vice versa. Harvey's evolution from destroyer to protector is the central narrative spine. Each survival group represents different aspects of human response to catastrophe. The convergence should feel earned and hopeful without being unrealistic about the magnitude of the global catastrophe.
+
+Creative Team Information:
+- Editor: Responsible for story structure, scientific accuracy, thematic coherence, pacing oversight
+- Writer: Responsible for character development, scene creation, dialogue, maintaining narrative voice
+- Creative Consultant: Scientific advisors for technical accuracy verification
+
+================================================================================
+STORY CONFIGURATION VERSION: 1.0
+LAST UPDATED: November 25, 2024
+UPDATED BY: Story Development Specialist
+================================================================================

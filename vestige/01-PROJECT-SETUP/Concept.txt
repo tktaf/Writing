@@ -1,0 +1,143 @@
+CONCEPT.TXT - CREATIVE WRITING VISION TEMPLATE
+
+================================================================================
+STORY TITLE: Vestige
+================================================================================
+
+STORY ESSENCE
+-----------------
+When physicist Dr. John Harvey's space energy experiment accidentally destroys the sun, Earth hurtles through space into eternal darkness as survivors fight for warmth, humanity, and hope in a world that's freezing to death. In underground bunkers, underwater submarines, and hidden caves, the last remnants of civilization must choose between survival at any cost or preserving what made them human in the first place.
+
+CREATIVE PURPOSE
+---------------
+Primary Goal: Explore how catastrophic scientific hubris transforms into redemptive human connection during humanity's final chapter
+Secondary Goals: 
+- Examine moral choices when civilization collapses and survival becomes paramount
+- Contrast scientific achievement with its unintended devastating consequences  
+- Explore intimate human relationships forged in extremity and isolation
+Success Definition: A story that balances hard science fiction disaster with deeply human moments of love, sacrifice, and moral choice in humanity's darkest hour
+
+TARGET READERS
+---------------
+Primary Readers: Adult science fiction fans who appreciate character-driven disaster narratives
+- Demographics: Ages 25-55, readers of hard SF and climate fiction, fans of realistic apocalyptic scenarios
+- Reading Desires: They seek scientifically plausible catastrophes with complex moral dilemmas and human resilience
+- Genre Expectations: Hard science fiction realism, survival tension, emotional depth beneath technical disaster
+
+Secondary Readers: Literary fiction readers interested in existential themes
+- Literary crossover audience: Those who appreciate McCarthy's "The Road" or Ballard's disaster novels
+- Character-focused readers: People drawn to intimate human drama set against vast catastrophe
+
+CORE THEMES & MEANING
+---------------------
+Central Theme: How scientific brilliance and human fallibility intertwine, and whether love and compassion can survive when everything familiar dies
+
+Supporting Themes:
+1. Redemption through responsibility: Harvey's journey from isolated genius to caring protector of survivors
+2. Love as survival necessity: The relationships between Harvey/Mary and Logan/Sadie as sources of strength and humanity
+3. Moral choices in extremity: How characters maintain or abandon ethics when civilization collapses
+
+Story Questions to Explore:
+- Can the person who destroyed the world also be its savior?
+- What aspects of humanity are worth preserving when survival becomes everything?
+- How do love and sacrifice transform us when facing absolute extinction?
+
+NARRATIVE VOICE & STYLE
+-----------------------
+Overall Tone: Bleak yet intimate, scientific yet deeply human, desperate but not without hope
+Voice Characteristics:
+- Clinical precision: Scientific detail grounding the disaster in believable physics and consequences
+- Intimate urgency: Close third-person perspectives that capture both physical and emotional survival
+- Moral complexity: Characters neither purely heroic nor villainous, but human under impossible pressure
+
+Writing Style: Hard science fiction with literary sensibilities and psychological depth
+Narrative Personality: Unflinching in depicting catastrophe while finding meaning in human connection
+
+GENRE & COMPARISON
+------------------
+Similar Stories: Hard science fiction disaster narratives with human focus
+- "The Road" by Cormac McCarthy: Post-apocalyptic survival with father-child bond, but more scientifically grounded
+- "Lucifer's Hammer" by Niven/Pournelle: Realistic disaster science with multiple survivor groups, but more focused on personal redemption
+- "On the Beach" by Nevil Shute: Extinction scenario with human dignity, but faster-paced and more action-oriented
+
+What Makes This Unique:
+- Scientific accountability: The destroyer of the world becomes its protector, exploring responsibility and redemption
+- Intimate scope within vast disaster: Multiple small survival groups rather than epic civilization rebuilding
+- Love as survival tool: Romantic relationships as sources of strength rather than complications or distractions
+
+STORY SCOPE & VISION
+--------------------
+Story Boundaries: Focuses on immediate survival and human connection in the weeks following solar destruction
+Included: Multiple survivor groups, scientific problem-solving, relationship development under extreme pressure, moral choices in crisis
+Excluded: Long-term civilization rebuilding, space rescue missions, magical solutions to the solar loss
+
+Story Arc Vision: From scientific disaster through various groups' survival struggles to convergence and hope for continued human existence
+Future Possibilities: Potential sequel exploring long-term survival community development and adaptation to sunless Earth
+
+NARRATIVE APPROACH
+------------------
+Storytelling Style: Multi-POV third person, rotating between survivor groups with episodic structure building to convergence
+Structure Preference: Chapter-based with different character perspectives, gradually weaving storylines together
+Reader Experience: Tension-filled but emotionally grounding, balancing scientific disaster with human intimacy
+
+Story Elements:
+- Dialogue: Natural, urgent, revealing character under pressure without exposition dumping
+- Description: Scientific precision for disaster elements, sensory detail for survival conditions, emotional precision for relationships
+- Pacing: Alternating between high-tension survival scenes and quieter character development moments
+
+Inspiration & References:
+- Kim Stanley Robinson's climate fiction: Scientific rigor with human focus
+- Cormac McCarthy's "The Road": Intimate relationships surviving in hostile world
+- Andy Weir's "The Martian": Problem-solving under extreme conditions with optimistic spirit
+
+STORY PRIORITIES
+----------------
+Essential Story Elements:
+1. Harvey's character arc from isolated destroyer to connected protector and redeemer
+2. Multiple survival group perspectives showing different approaches to catastrophe
+3. Romantic relationships as sources of strength and humanity preservation
+
+Enhancement Elements:
+1. Scientific detail grounding the disaster in believable physics and consequences
+2. Moral complexity in survival choices without clear right/wrong answers
+3. Convergence of storylines toward unified survival community and hope
+
+CREATIVE CONSTRAINTS & CONSIDERATIONS
+------------------------------------
+Story Limitations:
+- Scientific realism: All technology and consequences must be plausible given current physics understanding
+- Time pressure: Story occurs in days/weeks, not years, maintaining urgency and focus
+
+Creative Considerations:
+- Balance despair with hope: Show humanity's worst and best impulses without descending into pure bleakness or unrealistic optimism
+- Multiple perspectives: Each survivor group represents different survival philosophies and human responses to catastrophe
+
+Potential Challenges:
+- Maintaining hope while depicting realistic extinction scenario through character connections and small victories
+- Balancing scientific exposition with character development through character-driven problem solving
+
+CREATIVE SUCCESS VISION
+-----------------------
+Story Completion: A scientifically grounded but deeply human story of survival, love, and moral choice during humanity's darkest hour
+
+Reader Journey: Readers should feel the terror of global catastrophe while finding hope in human resilience and connection
+Reader Impact: Understanding that even in extinction scenarios, love, responsibility, and moral choice define our humanity
+
+Story Legacy: A hard science fiction disaster novel that doesn't sacrifice human emotion and moral complexity for technical spectacle
+
+================================================================================
+NOTES FOR EDITOR & WRITER
+================================================================================
+
+Creative Freedom Areas: Character relationship development, specific survival scenarios and technical problem-solving, details of convergence and community building
+Non-Negotiable Elements: Harvey's responsibility for disaster and redemption arc, multiple survivor perspectives, scientific realism, intimate human relationships as survival necessities
+Research/World-building Emphasis: Accurate physics of solar loss and atmospheric freezing, survival technology and procedures, psychology of extreme isolation and stress
+Quality Priorities: Character authenticity under pressure, scientific credibility, balance of despair and hope through human connection
+
+The story's power lies in contrasting vast scientific catastrophe with intimate human moments. Harvey must evolve from isolated genius to connected protector. Each survivor group should represent different responses to catastrophe - military hierarchy, romantic partnership, family bonds. The science must be rigorous enough to ground the disaster, but not overwhelm the human drama. Ultimate message: even facing extinction, our capacity for love, sacrifice, and moral choice defines our humanity.
+
+================================================================================
+LAST UPDATED: November 25, 2024
+UPDATED BY: Story Development Specialist
+VERSION: 1.0
+================================================================================
