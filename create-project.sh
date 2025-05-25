@@ -37,6 +37,7 @@ SYSTEM_FILES=(
     "ImplementationChecklistInstructions.md"
     "Prompt.txt"
     "Seed.txt"
+    "Characters.md"
 )
 
 # Copy system files
@@ -79,6 +80,7 @@ mv "$PROJECT_DIR/Prompt.txt" "$PROJECT_DIR/00-SYSTEM/"
 mv "$PROJECT_DIR/Concept.txt" "$PROJECT_DIR/01-PROJECT-SETUP/"
 mv "$PROJECT_DIR/Config.txt" "$PROJECT_DIR/01-PROJECT-SETUP/"
 mv "$PROJECT_DIR/Seed.txt" "$PROJECT_DIR/01-PROJECT-SETUP/"
+mv "$PROJECT_DIR/Characters.md" "$PROJECT_DIR/01-PROJECT-SETUP/"
 
 echo "✓ Organized files into appropriate folders"
 
@@ -156,6 +158,7 @@ This project follows the systematic creative writing workflow defined in the sys
 ### Project Configuration
 
 - **01-PROJECT-SETUP/Seed.txt**: Initial creative inspiration and story seed
+- **01-PROJECT-SETUP/Characters.md**: Pre-created character registry and naming guidelines
 - **01-PROJECT-SETUP/Concept.txt**: Story vision and creative direction
 - **01-PROJECT-SETUP/Config.txt**: Story requirements and specifications
 
@@ -182,6 +185,7 @@ Date: $(date)
 
 ## Completion Status
 - [ ] Seed.txt captured initial inspiration
+- [ ] Characters.md documented existing characters
 - [ ] Concept.txt completed
 - [ ] Config.txt completed  
 - [ ] Story outline developed
@@ -211,8 +215,9 @@ cat > "$PROJECT_DIR/QUICK-START.md" << EOF
 
 ### 1. Define Your Story (Editor Role)
 - [ ] Start: Capture initial inspiration in \`01-PROJECT-SETUP/Seed.txt\`
-- [ ] Option A: Use \`00-SYSTEM/Prompt.txt\` to expand Seed.txt into complete Concept.txt and Config.txt
-- [ ] Option B: Manually develop \`01-PROJECT-SETUP/Concept.txt\` and \`Config.txt\` from your Seed.txt
+- [ ] Document: Add any existing characters to \`01-PROJECT-SETUP/Characters.md\`
+- [ ] Option A: Use \`00-SYSTEM/Prompt.txt\` to expand Seed.txt and Characters.md into complete Concept.txt and Config.txt
+- [ ] Option B: Manually develop \`01-PROJECT-SETUP/Concept.txt\` and \`Config.txt\` from your Seed.txt and Characters.md
 - [ ] Review \`00-SYSTEM/Organization.md\` for project structure
 
 ### 2. Plan Your Story (Editor Role)  
@@ -254,7 +259,7 @@ echo ""
 echo "Next steps:"
 echo "1. cd \"$PROJECT_NAME\""
 echo "2. Read QUICK-START.md for immediate next steps"
-echo "3. Start with Seed.txt, then complete Concept.txt and Config.txt in 01-PROJECT-SETUP/"
+echo "3. Start with Seed.txt and Characters.md, then complete Concept.txt and Config.txt in 01-PROJECT-SETUP/"
 echo "4. Begin systematic story development using the workflow"
 echo ""
 echo "Happy writing! 📝"

@@ -295,7 +295,8 @@ Before creating any Implementation.md:
 2. **Character Arc Analysis**: Use mcp__memoryBank__open_nodes for all characters to identify required development
 3. **Plot Thread Assessment**: Use mcp__memoryBank__search_nodes for "plot" to determine advancement requirements
 4. **Setting Context Review**: Use mcp__memoryBank__search_nodes for "setting" to understand world state
-5. **Research Requirements Identification**: Determine what mcp__duckduckgo searches will be needed for factual accuracy
+5. **Name Repository Verification**: Confirm mcp__memoryBank__search_nodes for "AcceptableMaleFirstNames", "AcceptableFemaleFirstNames", and "AcceptableLastNames" return complete lists
+6. **Research Requirements Identification**: Determine what mcp__duckduckgo searches will be needed for factual accuracy
 
 ### Step 2: Scene-Specific Customization
 For each Implementation.md file:

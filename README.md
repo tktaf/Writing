@@ -25,9 +25,10 @@ cd "Your Story Name"
 
 ### 2. Begin Story Development
 1. **Capture Inspiration**: Fill out `01-PROJECT-SETUP/Seed.txt`
-2. **Develop Concept**: Use `00-SYSTEM/Prompt.txt` or manually complete `Concept.txt` and `Config.txt`
-3. **Plan Story**: Create outlines in `02-PLANNING/`
-4. **Begin Writing**: Follow systematic scene development using `00-SYSTEM/ImplementationChecklistInstructions.md`
+2. **Document Characters**: Add existing characters to `01-PROJECT-SETUP/Characters.md`
+3. **Develop Concept**: Use `00-SYSTEM/Prompt.txt` to expand Seed.txt and Characters.md into complete `Concept.txt` and `Config.txt`
+4. **Plan Story**: Create outlines in `02-PLANNING/`
+5. **Begin Writing**: Follow systematic scene development using `00-SYSTEM/ImplementationChecklistInstructions.md`
 
 ## System Files
 
@@ -39,9 +40,10 @@ cd "Your Story Name"
 
 ### Templates & Tools
 - **`Seed.txt`**: Template for capturing initial creative inspiration
+- **`Characters.md`**: Pre-created character registry with naming requirements
 - **`Concept.txt`**: Story vision and creative direction template
 - **`Config.txt`**: Story requirements and specifications template
-- **`Prompt.txt`**: LLM prompt for expanding seeds into complete concepts
+- **`Prompt.txt`**: LLM prompt for expanding seeds and characters into complete concepts
 - **`ImplementationChecklistInstructions.md`**: Meta-template for creating scene-specific task lists
 
 ### Setup Tools
