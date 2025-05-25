@@ -1,0 +1,79 @@
+# Seed.txt - Story Seed Template
+
+## Purpose
+This file captures the initial creative spark or inspiration for your story - the "seed" from which everything grows. This is the raw, unprocessed creative idea that will be developed into a complete Concept.txt and Config.txt using the systematic workflow.
+
+---
+
+## STORY SEED
+
+### Core Inspiration
+**What sparked this story idea?**
+[Describe the initial inspiration - a character, situation, image, question, "what if" scenario, or theme that captured your imagination]
+
+### Central Premise
+**In one sentence, what is this story about?**
+[Write a single sentence that captures the essence of your story idea]
+
+### Key Elements
+**What are the essential components you know about so far?**
+
+**Main Character(s):**
+[Who is the protagonist? What do you know about them?]
+
+**Setting:**
+[Where/when does this take place? What world or environment?]
+
+**Conflict/Problem:**
+[What challenge, conflict, or situation drives the story?]
+
+**Genre/Tone:**
+[What type of story is this? What mood or feeling should it convey?]
+
+### Initial Questions
+**What questions does this seed raise that your story should explore?**
+- [Question 1]
+- [Question 2]
+- [Question 3]
+
+### Emotional Core
+**What emotion or feeling should this story evoke in readers?**
+[Describe the emotional journey or impact you want to create]
+
+### Unique Elements
+**What makes this story different or special?**
+[What sets this apart from other stories in the same genre or theme?]
+
+---
+
+## DEVELOPMENT NOTES
+
+### Research Needs
+**What real-world information might you need to research?**
+[List potential research topics for historical accuracy, technical details, cultural elements, etc.]
+
+### Potential Challenges
+**What aspects of this story might be difficult to execute?**
+[Identify potential plot, character, or technical challenges to address]
+
+### Expansion Possibilities
+**How could this seed grow into a larger story?**
+[Consider how this idea could be developed into scenes, chapters, or a complete narrative]
+
+---
+
+## NEXT STEPS
+
+Once you've captured your story seed:
+
+1. **Use the Prompt.txt process** to expand this seed into complete Concept.txt and Config.txt files
+2. **OR manually develop** Concept.txt and Config.txt based on this foundation
+3. **Save this file** as inspiration reference throughout the writing process
+4. **Return to this seed** if you need to reconnect with your original creative vision
+
+---
+
+**Creation Date:** [Fill in when created]
+**Last Updated:** [Update when modified]
+
+**Notes:** This seed represents the pure creative inspiration before systematic development. Preserve this original vision while allowing it to evolve through the structured creative process.
